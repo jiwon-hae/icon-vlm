@@ -1,1 +1,9 @@
 /data/icons_raw/*
+/data/icons_png/*
+/data/icons_unique/*
+/data/icon_dataset/*
+/data/train.json
+/data/val.json
+/data/test.json 
+/data/metadata.json
+*.pyc
